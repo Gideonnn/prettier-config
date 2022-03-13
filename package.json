@@ -2,6 +2,12 @@
   "name": "@gideon/prettier-config",
   "version": "1.0.0",
   "description": "My preferred prettier config for javascript projects",
+  "author": "Gideon Spierings <gideongideon@gmail.com>",
+  "homepage": "https://github.com/Gideonnn/prettier-config",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Gideonnn/prettier-config.git"
+  },
   "license": "WTFPL",
   "main": "index.js",
   "files": [
