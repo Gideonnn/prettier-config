@@ -1,0 +1,16 @@
+{
+  "name": "@gideonnn/prettier-config",
+  "version": "1.0.0",
+  "description": "My preferred prettier config for javascript projects",
+  "license": "WTFPL",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "peerDependencies": {
+    "prettier": "2"
+  }
+}
