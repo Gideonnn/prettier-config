@@ -1,5 +1,5 @@
 {
-  "name": "@gideonnn/prettier-config",
+  "name": "@gideon/prettier-config",
   "version": "1.0.0",
   "description": "My preferred prettier config for javascript projects",
   "license": "WTFPL",
@@ -7,9 +7,6 @@
   "files": [
     "index.js"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "peerDependencies": {
     "prettier": "2"
   }

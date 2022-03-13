@@ -1,11 +1,11 @@
-# Gideonnn's prettier config
+# Gideon's prettier config
 
 My personal prettier setup for javascript projects. Feel free to use it any way you like.
 
 ## Installation
 
 ```
-yarn add -D @gideonnn/prettier-config
+yarn add -D @gideon/prettier-config
 ```
 
 Install required `peerDependencies`:
@@ -17,7 +17,7 @@ yarn add -D prettier
 Import in `package.json`:
 
 ```
-"prettier": "@gideonnn/prettier-config"
+"prettier": "@gideon/prettier-config"
 ```
 
 Add a format command to your `package.json`:
@@ -42,7 +42,7 @@ Instead of using `package.json`, you can also import this config in your `.prett
 
 ```
 module.exports = {
-  ...require("@gideonnn/prettier-config"),
+  ...require("@gideon/prettier-config"),
   semi: false,
 };
 ```
