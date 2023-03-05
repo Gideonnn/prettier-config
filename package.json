@@ -1,6 +1,6 @@
 {
   "name": "@gideon/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My preferred prettier config for javascript projects",
   "author": "Gideon Spierings <gideongideon@gmail.com>",
   "homepage": "https://github.com/Gideonnn/prettier-config",
