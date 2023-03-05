@@ -11,7 +11,8 @@
   "license": "WTFPL",
   "main": "index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "peerDependencies": {
     "prettier": "2"
